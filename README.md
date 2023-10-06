@@ -1,6 +1,6 @@
 <div align="center">
  
- ### Tech Stack 
+ ## Tech Stack 
 
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 
-### Blog
+## Blog
 
 <a href="https://heahgo.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
