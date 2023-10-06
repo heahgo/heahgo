@@ -6,5 +6,5 @@
 <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heahgo)](https://solved.ac/heahgo/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heahgo&show_icons=true&theme=radical)
