@@ -10,5 +10,7 @@
 ### Blog
 <a href="https://heahgo.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
-### Stat
+### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heahgo&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heahgo&layout=Demo&theme=onedark)
