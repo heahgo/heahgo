@@ -9,5 +9,5 @@
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <br>
 ### Blog
-<a src="https://heahgo.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<a href="https://heahgo.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heahgo&show_icons=true&theme=radical)
