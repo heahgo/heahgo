@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <hr>
 
+[![soyeon207's github activity graph](https://activity-graph.herokuapp.com/graph?username=soyeon207&theme=monokai)](https://github.com/soyeon207/github-readme-activity-graph)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heahgo&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heahgo&theme=onedark&layout=compact)
 
