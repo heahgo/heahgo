@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <hr>
 
-[![heahgo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heahgo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![heahgo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heahgo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heahgo&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heahgo&theme=onedark&layout=compact)
